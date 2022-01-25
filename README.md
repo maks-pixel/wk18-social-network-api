@@ -16,7 +16,7 @@
  Download the Repository and run the server using npm start after installing all the node packages in package.json
 
  ## Usage
- follow this video to see how to use the database using insomnia 
+ follow this https://watch.screencastify.com/v/jLTZqjP4PsQtfg3MAavU video to see how to use the database using insomnia 
  
  ## Contributing
  N/A
